@@ -461,8 +461,6 @@ public class Part extends Object {
 
 	protected void remove(String cause) {
 		super.remove();
-		System.out.println("Cause: " + cause);
-
 	}
 
 }
